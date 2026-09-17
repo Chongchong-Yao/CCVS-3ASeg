@@ -1,5 +1,7 @@
 # CCVS-3ASeg: A Large-Scale Contextual Auxiliary Framework for Road Crack Semantic Segmentation in UAV Imagery
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22812170.svg)](https://doi.org/10.5281/zenodo.22812170)
+
 > Authors: Chongchong Yao, Nu Wen, Zhimin Zhang, Yachao Chang, Yong Fan.
 ![替代文本](./paperGraph/figure4.png)
 ![替代文本](./paperGraph/figure3.png)
