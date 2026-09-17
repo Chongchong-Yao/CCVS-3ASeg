@@ -1,0 +1,45 @@
+{
+  "title": "CCVS-3ASeg: A Large-Scale Contextual Auxiliary Framework for Road Crack Semantic Segmentation in UAV Imagery",
+  "description": "Code and supporting materials for CCVS-3ASeg, a task-oriented workflow that links road-region extraction, road-orientation-guided slicing, slice filtering, and adversarial-attention-assisted crack segmentation in UAV imagery.",
+  "creators": [
+    {
+      "name": "Yao, Chongchong",
+      "affiliation": "Suzhou University of Science and Technology; Shenzhen Polytechnic University"
+    },
+    {
+      "name": "Wen, Nu",
+      "affiliation": "Shenzhen Polytechnic University"
+    },
+    {
+      "name": "Zhang, Zhimin",
+      "affiliation": "Suzhou University of Science and Technology; Suzhou Key Laboratory of Spatial Information Intelligent Technology and Application"
+    },
+    {
+      "name": "Chang, Yachao",
+      "affiliation": "Suzhou University of Science and Technology"
+    },
+    {
+      "name": "Fan, Yong",
+      "affiliation": "Shenzhen Polytechnic University"
+    }
+  ],
+  "version": "1.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "keywords": [
+    "road crack segmentation",
+    "UAV imagery",
+    "semantic segmentation",
+    "contextual slicing",
+    "adversarial attention"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Chongchong-Yao/CCVS-3ASeg",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
+    }
+  ]
+}

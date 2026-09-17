@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release."
+title: "CCVS-3ASeg: A Large-Scale Contextual Auxiliary Framework for Road Crack Semantic Segmentation in UAV Imagery"
+type: software
+version: 1.0.0
+date-released: 2026-09-17
+repository-code: "https://github.com/Chongchong-Yao/CCVS-3ASeg"
+license: MIT
+authors:
+  - family-names: Yao
+    given-names: Chongchong
+    affiliation: Suzhou University of Science and Technology; Shenzhen Polytechnic University
+  - family-names: Wen
+    given-names: Nu
+    affiliation: Shenzhen Polytechnic University
+  - family-names: Zhang
+    given-names: Zhimin
+    affiliation: Suzhou University of Science and Technology; Suzhou Key Laboratory of Spatial Information Intelligent Technology and Application
+  - family-names: Chang
+    given-names: Yachao
+    affiliation: Suzhou University of Science and Technology
+  - family-names: Fan
+    given-names: Yong
+    affiliation: Shenzhen Polytechnic University
+keywords:
+  - road crack segmentation
+  - UAV imagery
+  - semantic segmentation
+  - contextual slicing
+  - adversarial attention
