@@ -3,6 +3,7 @@ message: "If you use this software, please cite the archived release."
 title: "CCVS-3ASeg: A Large-Scale Contextual Auxiliary Framework for Road Crack Semantic Segmentation in UAV Imagery"
 type: software
 version: 1.0.0
+doi: 10.5281/zenodo.22812170
 date-released: 2026-09-17
 repository-code: "https://github.com/Chongchong-Yao/CCVS-3ASeg"
 license: MIT
