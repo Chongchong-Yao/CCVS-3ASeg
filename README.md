@@ -17,7 +17,7 @@ We will continue to update the data and code corresponding to the paper.
 > (4) Drone (DJI M300RTK, Camara: ZenmuseH20T), Its video imaging system includes a 20MP zoom camera (1/1.7" CMOS) supporting 4K (3840×2160) @30fps and 1080P@30fps, a 12MP wide-angle camera (1/2.3" CMOS) with 1080P@30fps, and a thermal camera (640×512@30Hz). All record in MP4 (H.264).<br>
 
 # Software environment for this technical experiment: 
->The required environment is Python 3.11.13 (all packages in the code are installed based on Python 3.11.11).<br>
+>The required environment is Python 3.11.13 (all packages in the code are installed based on Python 3.11.13).<br>
 >Pretrained model checkpoints and representative generated samples are included in this repository.
 
 
