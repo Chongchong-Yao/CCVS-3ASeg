@@ -17,7 +17,7 @@ We will continue to update the data and code corresponding to the paper.
 > (4) Drone (DJI M300RTK, Camara: ZenmuseH20T), Its video imaging system includes a 20MP zoom camera (1/1.7" CMOS) supporting 4K (3840×2160) @30fps and 1080P@30fps, a 12MP wide-angle camera (1/2.3" CMOS) with 1080P@30fps, and a thermal camera (640×512@30Hz). All record in MP4 (H.264).<br>
 
 # Software environment for this technical experiment: 
->The required environment is Python 3.11.11 (all packages in the code are installed based on Python 3.11.11).<br>
+>The required environment is Python 3.11.13 (all packages in the code are installed based on Python 3.11.11).<br>
 >Pretrained model checkpoints and representative generated samples are included in this repository.
 
 
@@ -25,8 +25,4 @@ We will continue to update the data and code corresponding to the paper.
 >our Custom-Dataset data: https://pan.baidu.com/s/1LQK4diDD0AxcO7prMDsMFA?pwd=8888 <br>
 >public Crack Dataset: https://pan.baidu.com/s/15YEN-U0xII5Asu2j506TIA?pwd=8888 <br>
 >Updates will continue after the paper is published.
-
-
-# Future Work
-> Although this study has effectively optimized the utilization of high-resolution UAV data and the real-time performance of inference, there are still some limitations that can be explored in future research. Firstly, the current research mainly focuses on the segmentation of road crack small objects; future work can extend the VRS-3ASeg Framework to other object segmentation scenarios in UAV imagery, such as small obstacles, road signs, and vegetation gaps, to further verify the strategy's generalization ability. Secondly, the VRoIS module may face performance degradation in extreme complex backgrounds (e.g., severe road pollution, heavy occlusion by vegetation), and future research can optimize the distribution fitting function and RoI extraction algorithm to improve the module's robustness. Finally, the adversarial loss function in the 3ASeg module can be further improved by introducing multi-scale feature constraint terms, to enhance the module's ability to adapt to small objects of different sizes and improve the overall segmentation precision.
 
