@@ -7,7 +7,7 @@
 ![替代文本](./paperGraph/figure3.png)
 ![替代文本](./paperGraph/figure5.png)
 
->Code and Data of Paper: A Stage-Focused Strategy for Real-Time Small Crack Segmentation Leveraging High-Resolution UAV Road Imagery.
+>Code and Data of Paper: CCVS-3ASeg: A Large-Scale Contextual Auxiliary Framework for Road Crack Semantic Segmentation in UAV Imagery
 We will continue to update the data and code corresponding to the paper.
 
 # Hardware environment for this technical experiment: 
